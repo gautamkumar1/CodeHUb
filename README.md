@@ -1,6 +1,17 @@
-# CodeHub : GitHub Like a App| React, MongoDB, Express.js, Passport.js
+# CodeHub : GitHub Like a App| React, MongoDB, Express.js, Passport.js, TailwindCSS, Github API
 
-![Demo App](https://i.ibb.co/xfpddW2/Screenshot-22.png)
+# Home Page 
+
+![Home Page](https://github.com/gautamkumar1/CodeHUb/assets/91417015/91aaab48-436c-4523-9d11-34ca447f4801)
+
+# Sign-up Page: New users can sign up for their GitHub account.
+
+![image](https://github.com/gautamkumar1/CodeHUb/assets/91417015/25d3b75a-4e58-45d4-bba3-6df2476770eb)
+
+# Login Page: Users can sign in using their GitHub account.
+
+![image](https://github.com/gautamkumar1/CodeHUb/assets/91417015/670832c8-fd43-429c-b391-ababf243bf9b)
+
 
 Some Features:
 
@@ -10,8 +21,7 @@ Some Features:
 -   🚀 Filter Repos on the Client
 -   🎭 Learn behind the scenes for authentication
 -   🐛 Error handling (both on the server and on the client)
--   🎃 At the end DEPLOY like a pro for FREE!
--   ⏳ And much more!
+
 
 ### Setup .env file
 
